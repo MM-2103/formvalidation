@@ -1,0 +1,15 @@
+{
+  "name": "formvalidation",
+  "version": "1.0.0",
+  "description": "JS form validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehsen Menem",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "parsleyjs": "^2.9.2"
+  }
+}
